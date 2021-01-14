@@ -1,0 +1,13 @@
+
+.btn-next{
+    padding: 5px 30px;
+    border-radius: 10px;
+    background-color: #02d874;
+    border: none;
+    margin-left: 10px;
+    margin-left: 20px;
+}
+.btn-next:hover{
+    color: white;
+    background-color: blue;
+}
